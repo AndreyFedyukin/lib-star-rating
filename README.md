@@ -4,7 +4,7 @@
 
 ### Шаблон для голосования с помощью создания звездного рейтинга с анимацией
 
-Ссылка на сайт <https://andreyfedyukin.github.io/star_rating/>
+Ссылка на сайт <https://andreyfedyukin.github.io/lib-star-rating/>
 
 ---
 
